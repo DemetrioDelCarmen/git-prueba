@@ -1,2 +1,2 @@
 # git-prueba
-una simple prueba de estudio
+una simple prueba de repaso
